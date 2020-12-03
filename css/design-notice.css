@@ -1,0 +1,11 @@
+.dn-text {
+    font-family: 'Inconsolata', monospace;
+    font-size: small;
+    font-weight: 700;
+    line-height: 1;
+}
+#dn-img {
+    background-color: #101010;
+    width: 24px;
+    height: 34px;
+}
