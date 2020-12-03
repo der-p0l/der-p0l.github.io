@@ -9,6 +9,18 @@
     width: 100%;
     height: auto;
     background-color: #313539;
+    margin-top: 2rem;
+}
+#home-name-animation {
+    margin-top: 1rem;
+}
+@media (min-width: 768px) {
+    #home-pic {
+        margin-top: 0;
+    }
+    #home-name-animation {
+        margin-top: 0;
+    }
 }
 .home-name-btn {
     position: relative;
