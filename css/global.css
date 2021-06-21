@@ -170,6 +170,3 @@ body {
 .link:active, .link:hover, .link:focus {
     text-decoration: underline !important;
 }
-.link.dark {
-    color: #3E4D66 !important;
-}
