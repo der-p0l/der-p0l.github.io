@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
-		<loc>https://www.eduardopaulcs.com.ar/</loc>
+		<loc>https://der-p0l.github.io/</loc>
 		<xhtml:link 
 				rel="alternate"
 				hreflang="es"
-				href="https://www.eduardopaulcs.com.ar/"/>
+				href="https://der-p0l.github.io/"/>
 		<xhtml:link 
 				rel="alternate"
 				hreflang="en"
-				href="https://www.eduardopaulcs.com.ar/en/"/>
+				href="https://der-p0l.github.io/en/"/>
 	</url>
 	<url>
-		<loc>https://www.eduardopaulcs.com.ar/en/</loc>
+		<loc>https://der-p0l.github.io/en/</loc>
 		<xhtml:link 
 				rel="alternate"
 				hreflang="es"
-				href="https://www.eduardopaulcs.com.ar/"/>
+				href="https://der-p0l.github.io/"/>
 		<xhtml:link 
 				rel="alternate"
 				hreflang="en"
-				href="https://www.eduardopaulcs.com.ar/en/"/>
+				href="https://der-p0l.github.io/en/"/>
 	</url>
 </urlset>
